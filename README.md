@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Banner">
-</p>
-
-<h1 align="center">Madan R Sangur</h1>
-
-<p align="center">
-Engineering Student • AI • Software Development
-</p>
+<img src="banner.png" alt="Banner">
 
 ---
 
