@@ -1,16 +1,45 @@
-## Hi there 👋
+# Madan R Sangur
 
-<!--
-**madan-sangur/madan-sangur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student focused on building useful software, exploring AI, and solving real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- B.Tech in Artificial Intelligence & Machine Learning
+- Interested in AI, software engineering, and automation
+- Learning by building projects from scratch
+- Currently exploring full-stack development and AI systems
+
+---
+
+## Tech Stack
+
+- Python
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## Current Focus
+
+- Building better software
+- Improving engineering skills
+- Open Source
+- Machine Learning
+
+---
+
+## Featured Projects
+
+- ArcLife
+- Life System Tracker
+- More projects coming soon...
+
+---
+
+> "Consistency compounds."
