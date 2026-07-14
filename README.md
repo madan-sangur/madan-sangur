@@ -1,9 +1,18 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner" width="100%">
+  <img src="banner.png" width="100%" alt="Banner">
 </p>
+
+<h1 align="center">Madan R Sangur</h1>
+
+<p align="center">
+Engineering Student • AI • Software Development
+</p>
+
+---
+
+## About
 # Madan R Sangur
 
-Engineering student focused on building useful software, exploring AI, and solving real-world problems.
 
 ---
 
