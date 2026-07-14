@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
 # Madan R Sangur
 
 Engineering student focused on building useful software, exploring AI, and solving real-world problems.
