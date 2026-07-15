@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner">
+7<img src="banner.png" alt="Banner">
 
 
 ---
@@ -37,10 +37,7 @@
 
 - ArcLife
 - Life System Tracker
-- More projects coming soon...
 
 ---
----
-
 
 > "Consistency compounds."
