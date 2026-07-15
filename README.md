@@ -1,10 +1,5 @@
 <img src="banner.png" alt="Banner">
 
----
-
-## About
-# Madan R Sangur
-
 
 ---
 
