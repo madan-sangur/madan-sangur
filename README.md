@@ -36,7 +36,6 @@
 ## Featured Projects
 
 - ArcLife
-- Life System Tracker
 
 ---
 
